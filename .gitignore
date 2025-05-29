@@ -1,3 +1,4 @@
 build/
 sdkconfig
 sdkconfig.old
+components/micro_ros_espidf_component
